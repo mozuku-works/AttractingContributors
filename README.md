@@ -12,7 +12,7 @@ Please tell me the title of your favorite Manga.
 - Attack on Titan
 - HUNTER×HUNTER
 - Fullmetal Alchemist
+- Fullmetal Alchemist: Brotherhood
 - JOJO'S Bizarre Adventure
-- 
 - 
 - 
