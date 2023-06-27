@@ -7,7 +7,7 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 # Lists
 - 60Hz  
 - 60
-- 
+- 30
 -
 -
 -
