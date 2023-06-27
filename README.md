@@ -5,7 +5,9 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 あなたの使ってるモニターのリフレッシュレートを教えてください。
 
 # Lists
+- 60Hz  
 - 60
+- 
 -
 -
 -
